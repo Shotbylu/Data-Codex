@@ -15,3 +15,4 @@ A list of computer-science readings I recommend
 * Operating Systems
 * Parallel Programming
 * Static Analysis Techniques
+* Philosophy
