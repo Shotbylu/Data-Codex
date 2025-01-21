@@ -1,4 +1,4 @@
-# reading
+# My very own personal librbry 
 A list of computer-science readings I recommend
 
 <a target="_blank" href="https://github.com/amilajack/popcorn-time-desktop/pulls">
