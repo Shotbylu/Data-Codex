@@ -1,9 +1,6 @@
 # My very own personal library 
-A list of computer-science readings I recommend
 
-<a target="_blank" href="https://github.com/amilajack/popcorn-time-desktop/pulls">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
-</a>
+This project is a curated collection of computer science readings that I highly recommend. It includes a diverse range of topics, from foundational theories to cutting-edge research, aimed at enhancing knowledge and understanding in the field of computer science. Whether you're a student, professional, or enthusiast, this library offers valuable resources to deepen your expertise and stay updated with the latest advancements.
 
 ## Topics
 
